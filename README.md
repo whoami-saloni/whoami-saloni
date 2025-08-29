@@ -2,7 +2,7 @@
 
 > 🚀 Passionate about crafting impactful solutions using **Data Science, Machine Learning, and AI-driven technologies**  
 
-<img align="right" alt="Coding girl" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
 
 ---
 
